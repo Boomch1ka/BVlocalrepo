@@ -1,0 +1,16 @@
+@model VenueBookingApp.Models.Event
+
+<h1>Event Details</h1>
+
+<div>
+    <h2>@Model.Title</h2>
+    <img src="https://via.placeholder.com/400" alt="Event Image" />
+    <p><strong>Date:</strong> @Model.Date.ToString("MMMM dd, yyyy")</p>
+    <p><strong>Venue:</strong> @Model.VenueId</p>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Delete" asp-route-id="@Model.Id">Delete</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,36 @@
+@{
+    ViewData["Title"] = "Events";
+}
+
+<h1>Events</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New Event</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Date</th>
+            <th>Venue</th>
+            <th>Image</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ev in Model)
+        {
+            <tr>
+                <td>@ev.Title</td>
+                <td>@ev.Date.ToString("d")</td>
+                <td>@ev.VenueId</td>
+                <td><img src="https://via.placeholder.com/100" alt="Event Image" /></td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@ev.Id" class="btn btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@ev.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

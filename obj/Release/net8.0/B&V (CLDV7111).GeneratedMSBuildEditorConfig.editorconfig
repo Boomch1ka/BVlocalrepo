@@ -1,0 +1,145 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = B_V__CLDV7111_
+build_property.RootNamespace = B_V__CLDV7111_
+build_property.ProjectDir = C:\Users\aaron\source\repos\Boomch1ka\B-V--CLDV7111-\B_V__CLDV7111_\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\aaron\source\repos\Boomch1ka\B-V--CLDV7111-\B_V__CLDV7111_
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/VenueBookingApp/Views/Bookings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVudWVCb29raW5nQXBwXFZpZXdzXEJvb2tpbmdzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/VenueBookingApp/Views/Bookings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVudWVCb29raW5nQXBwXFZpZXdzXEJvb2tpbmdzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/VenueBookingApp/Views/Bookings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVudWVCb29raW5nQXBwXFZpZXdzXEJvb2tpbmdzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/VenueBookingApp/Views/Bookings/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVudWVCb29raW5nQXBwXFZpZXdzXEJvb2tpbmdzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/VenueBookingApp/Views/Bookings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVudWVCb29raW5nQXBwXFZpZXdzXEJvb2tpbmdzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/VenueBookingApp/Views/Events/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVudWVCb29raW5nQXBwXFZpZXdzXEV2ZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/VenueBookingApp/Views/Events/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVudWVCb29raW5nQXBwXFZpZXdzXEV2ZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/VenueBookingApp/Views/Events/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVudWVCb29raW5nQXBwXFZpZXdzXEV2ZW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/VenueBookingApp/Views/Events/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVudWVCb29raW5nQXBwXFZpZXdzXEV2ZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/VenueBookingApp/Views/Events/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVudWVCb29raW5nQXBwXFZpZXdzXEV2ZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/VenueBookingApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVudWVCb29raW5nQXBwXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/VenueBookingApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVudWVCb29raW5nQXBwXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/VenueBookingApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVudWVCb29raW5nQXBwXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/VenueBookingApp/Views/Shared/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVudWVCb29raW5nQXBwXFZpZXdzXFNoYXJlZFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/VenueBookingApp/Views/Venues/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVudWVCb29raW5nQXBwXFZpZXdzXFZlbnVlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/VenueBookingApp/Views/Venues/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVudWVCb29raW5nQXBwXFZpZXdzXFZlbnVlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/VenueBookingApp/Views/Venues/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVudWVCb29raW5nQXBwXFZpZXdzXFZlbnVlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/VenueBookingApp/Views/Venues/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVudWVCb29raW5nQXBwXFZpZXdzXFZlbnVlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/VenueBookingApp/Views/Venues/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVudWVCb29raW5nQXBwXFZpZXdzXFZlbnVlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/Views/Venues/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/source/repos/Boomch1ka/B-V--CLDV7111-/B_V__CLDV7111_/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-crsmpc2k7i
